@@ -12,6 +12,8 @@ FE will be having an API call which will pass this complete data in API to the b
 Validate email is already present or not. Now its time to store the details in DB. ENCRYPTION :Information like passwords should not be stored in the db directly. So we will encrypt the password and then only store it. So this encryption code will be written in controllers node.bcyript.js
 There is a library known as bcrypt npm any text will be converted into a hash value
 Once the bcrypt has returned you hashed value, then we will store that in DB along with other user details.
+
+
 Login:
 
 FE will take data from user email/username and password
