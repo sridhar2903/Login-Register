@@ -1,9 +1,9 @@
-# Login-Register
+# Register-ogin
 
+# Registeration/Login Process:::::::::::
 
-Registeration/Login Process:::::::::::
+# Registeration:::
 
-Registeration:::
 
 FE will display the input fields that you want to capture from the user. Name, age, salary, dept, email, password etc.
 User will be providing the details in the fields, then he will click on submit button or register/ signup button.
@@ -13,8 +13,8 @@ Validate email is already present or not. Now its time to store the details in D
 There is a library known as bcrypt npm any text will be converted into a hash value
 Once the bcrypt has returned you hashed value, then we will store that in DB along with other user details.
 
+# Login:
 
-Login:
 
 FE will take data from user email/username and password
 Click on login button, then FE will call an API from backend and will pass email and password to it.
