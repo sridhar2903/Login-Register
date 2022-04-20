@@ -1,6 +1,6 @@
 # Register- Login
 
-# Registeration/Login Process:::::::::::
+
 
 Register / Login Procedure -
 
